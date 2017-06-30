@@ -1,0 +1,96 @@
+body{
+	background-color:#e9ebee;
+}
+
+#wrapper {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+#main,
+#menu,
+#sidebar {
+  height: 600px;
+}
+
+#main,
+#menu,
+#sidebar {
+  background-color: #e9ebee;
+}
+
+#header {
+    background-color: #4267b2;
+    color: white;
+}
+
+.white-text {
+	margin-top: 5px;
+	color: white !important;
+}
+
+.list-heading {
+    padding: 20px 15px 0 15px;
+}
+
+.panel-body .glyphicon {
+    margin-left: 10px;
+    margin-right: 4px;
+}
+
+.text-post {
+    margin-bottom: 15px;
+    margin-top: 0;
+}
+
+.image-post {
+    margin-bottom: 15px;
+}
+
+#main {
+    overflow: auto;
+}
+
+#main::-webkit-scrollbar {
+    display: none;
+}
+
+.comment {
+    margin: 0;
+}
+
+.fb-icon{
+    height: 30px;
+    width: 30px;
+	margin-left: 200px;
+    margin-right: -20px;
+	border-radius: 2px;
+}
+
+.navbar-form .form-control {
+	display: inline-block;
+    width:500px;
+    height: 30px;
+	border-color:white;
+	border: 22px;
+	border-radius: 2px 2px 2px 2px;
+	margin-top: 7px;
+}
+	
+.btn-default {
+	height: 30px;
+	padding: 0 16px;
+    background-color:#f6f7f9;
+    border-color:white;
+	border-radius: 0 2px 2px 0;
+    margin-left: -50px;
+    border-left:none;
+	margin-top: 5px;
+	border: 22px;
+}
+	
+.profile-pic {
+    height: 30px;
+    width: 30px;
+	border-radius: 0 2px 2px 0;
+}
